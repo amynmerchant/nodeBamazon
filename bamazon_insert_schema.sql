@@ -1,0 +1,10 @@
+insert into products values(1, 'Cold Relief', 'Pharmacy', 15.50 , 4);
+insert into products values(2, 'KitKat', 'Candy', 3.00, 12);
+insert into products values(3,'Bananas','Grocery', 1.99, 8);
+insert into products values(4, 'Maybelline eyeliner', 'Grooming', 35.99 , 9);
+insert into products values(5, 'Beef', 'Meats', 8, 6);
+insert into products values(6,'Disprin','Pharmacy', 2.25, 100);
+insert into products values(7, 'Mars bar', 'Candy', 5.00, 24);
+insert into products values(8, 'Kellogs', 'Grocery', 7.99, 10);
+insert into products values(9,'Disposable razors','Grooming', 12, 6);
+insert into products values(10, 'Sliced Bread', 'Grocery', 2.99 , 20);
